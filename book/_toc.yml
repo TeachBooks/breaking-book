@@ -1,12 +1,12 @@
 format: jb-book
-root: intro.md
+root: intro.m
 
 parts:
   - caption: Contents
     chapters:
-    - file: some_content/overview.md
+    - file: some_content/overview.m
       sections:
-      - file: some_content/text_and_code.ipynb
-    - file: references.md
-    - file: changelog.md
-    - file: credits.md
+      - file: some_content/text_and_code.ipyn
+    - file: references.m
+    - file: changelog.m
+    - file: credits.m
